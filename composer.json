@@ -11,9 +11,12 @@
         "doctrine/doctrine-migrations-bundle": "^3.2",
         "doctrine/orm": "^2.14",
         "symfony/console": "6.2.*",
+        "symfony/contracts": "^3.2",
         "symfony/dotenv": "6.2.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "6.2.*",
+        "symfony/http-client": "6.2.*",
+        "symfony/http-client-contracts": "^3.1",
         "symfony/runtime": "6.2.*",
         "symfony/yaml": "6.2.*"
     },
